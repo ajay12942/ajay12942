@@ -92,10 +92,6 @@ ajay.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay12942&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay12942&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay12942&theme=tokyonight" alt="GitHub Streak" />
@@ -107,12 +103,16 @@ ajay.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay12942&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
+![Commits](https://img.shields.io/badge/Total%20Commits-100+-blue?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Public%20Repos-5-green?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-2-orange?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Total%20Stars-10+-yellow?style=for-the-badge&logo=github)
+
+</div>
 ---
 
 ## 📈 Contribution Graph
@@ -127,16 +127,11 @@ ajay.say_hi()
 
 ```mermaid
 graph LR
-    A[Electro-Mechanical<br/>Engineering] --> B[Programming<br/>Enthusiast]
+    A[Mechatronics<br/>Engineering] --> B[Programming<br/>Enthusiast]
     B --> C[AI & ML<br/>Student]
     C --> D[Full-Stack<br/>Developer]
     D --> E[Future<br/>AI Engineer]
     
-    style A fill:#ff6b6b
-    style B fill:#ffd93d
-    style C fill:#6bcf7f
-    style D fill:#4ecdc4
-    style E fill:#a29bfe
 ```
 
 ---

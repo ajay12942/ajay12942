@@ -160,7 +160,7 @@ graph LR
 I'm always excited to collaborate on innovative projects, discuss new technologies, or just chat about AI and development. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay12942/)
-[![Email](https://img.shields.io/badge/-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykumar@example.com)
+[![Email](https://img.shields.io/badge/-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajay12942@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay12942)
 
 </div>

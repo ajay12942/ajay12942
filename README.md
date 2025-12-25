@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay12942)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student+at+RNSIT;Full-Stack+Web+Developer;From+Electro-Mechanical+to+AI;Building+Intelligent+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research+Enginner+@+Siemens;AI+%26+ML+Student+at+RNSIT;Full-Stack+Web+Developer;From+Electro-Mechanical+to+AI;Building+Intelligent+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -19,9 +19,11 @@
 ```python
 class AjayKumar:
     def __init__(self):
+        self.work = "Research Engineer@siemens"
         self.location = "Bangalore, India 🇮🇳"
+        self.work = "Research Engineer@siemens"
         self.education = "RNSIT - AI & Machine Learning"
-        self.background = "Electro-Mechanical Engineering"
+        self.background = "Mechatronics Engineering"
         self.passion = ["AI/ML", "Full-Stack Development", "Problem Solving"]
         self.current_focus = "Building intelligent applications that bridge technology and real-world impact"
     
